@@ -1,1 +1,1 @@
-# tHinkbot-buddy
+# tHinkbot
